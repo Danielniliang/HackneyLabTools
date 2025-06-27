@@ -8,7 +8,7 @@ You can install the package directly from GitHub:
 
 ```r
 # install.packages("devtools")
-devtools::install_github("yourusername/HackneyLabTools")
+devtools::install_github("Danielniliang/HackneyLabTools")
 ```
 
 ## Features
